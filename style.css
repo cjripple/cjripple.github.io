@@ -26,10 +26,10 @@ font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 
 #slcimg {
 display: block;
-border-radius: 15px
 margin-left: auto;
 margin-right: auto;
 width: 50%;
 height: 50%;
 border: 2px solid #FCA311;
+border-radius: 15px;
 }
