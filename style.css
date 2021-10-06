@@ -32,7 +32,10 @@ width: 50%;
 height: 50%;
 border: 2px solid #FCA311;
 border-radius: 15px;
-.scale-up-center {
+}
+
+#slcimg {
+  .scale-up-center {
 	-webkit-animation: scale-up-center 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) 0.3s both;
 	        animation: scale-up-center 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) 0.3s both;
 
@@ -68,5 +71,4 @@ border-radius: 15px;
                       transform: scale(1);
             }
           }
-
 }
