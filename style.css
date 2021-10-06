@@ -1,14 +1,19 @@
+
 h1 {
-color:#E5E5E5;
-font-family:helvetica;
+color:#FCA311;
+font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;;
 }
 
 p {
 color:#14213D;
-font-family:helvetica;
+font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;;
 }
 
 h3 {
 color:#14213D;
-font-family:helvetica;
+font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;;
+}
+body {
+background-color: #E5E5E5;
+font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 }
