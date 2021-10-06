@@ -1,4 +1,4 @@
-<! DOCTYPE html>
+<!DOCTYPE html>
 
 <html>
 
@@ -8,7 +8,21 @@
 
 <body>
 
-<p> Welcome to my webpage! </p>
+<h1> Connor Ripple - Website </h1>
+
+<h3> About me </h3>
+
+<p> Hello! My name is <strong> Connor Ripple</strong>, and I am a Junior at UCLA. I am majoring in Sociology, and creating this website for my DH150 class.  </p>
+
+<p> Here is a link to my <a href="https://linkedin.com/in/connorripple">LinkedIn Profile</a> </p>
+
+<img src="https://cdn.britannica.com/69/95669-050-3ECCFE19/Salt-Lake-City-Utah.jpg" alt="Landscape image of Salt Lake City, Utah, USA.">
+
+<br> </br>
+
+<p> I was born in Salt Lake City, but I grew up in Northern California, in the Bay Area.</p>
+
+
 
 </body>
 
