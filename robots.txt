@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cjripple.github.io/sitemap.xml

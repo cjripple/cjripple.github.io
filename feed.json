@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Connor Ripple&#x27;s Website",
+    "description": "",
+    "home_page_url": "https://cjripple.github.io",
+    "feed_url": "https://cjripple.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Connor Ripple"
+    },
+    "items": [
+    ]
+}
